@@ -10,7 +10,6 @@
 					<div class="swiper-pagination" slot="pagination"></div>
 			</swiper>
 		</div> 
-
 		<v-nav></v-nav>
 		<travel-list :travel-lists="travelListIndex"></travel-list>
 	</div>
